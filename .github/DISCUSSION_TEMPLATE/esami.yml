@@ -1,14 +1,8 @@
 title: "[Esame 0 Mese 0000] Esercizio 0"
 labels: ["da risolvere"]
 body:
-- type: input
-  id: screenshot
-  attributes:
-    label: Screenshot
-    description: "Screenshot dell'esercizio"
-    type: "file"
-    accept: "image/png, image/jpeg"
-  validations:
-    required: false
 - type: markdown
-  value: "Oppure scrivi il testo della domanda!"
+  value: "Inserisci uno screenshot o scrivi il testo della domanda!"
+  validation:
+    required: true
+  
