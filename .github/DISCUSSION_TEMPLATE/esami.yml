@@ -2,7 +2,6 @@ title: "[Esame 0 Mese 0000] Esercizio 0"
 labels: ["da risolvere"]
 body:
 - type: markdown
-  value: "Inserisci uno screenshot o scrivi il testo della domanda!"
-  validation:
-    required: true
+  attributes:
+    value: "Inserisci uno screenshot o scrivi il testo della domanda!"
   
