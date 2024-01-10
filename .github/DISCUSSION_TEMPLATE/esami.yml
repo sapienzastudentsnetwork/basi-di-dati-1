@@ -14,13 +14,13 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: "## Scrivi il testo dell'esercizio o posta uno screenshot!"
+    value: "## Esercizio"
 - type: textarea
   id: esercizio
   attributes:
     label: Testo dell'esercizio
     description: "Scrivi il testo dell'esercizio o posta uno screenshot!"
     placeholder: "Esercizio..."
-    render: bash
+    render: markdown
   validations:
     required: true
