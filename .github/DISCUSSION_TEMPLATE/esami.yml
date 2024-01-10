@@ -13,5 +13,6 @@ body:
   validations:
     required: true
 - type: markdown
+  value: "Scrivi la domanda o posta uno screenshot!"
   attributes:
-    value = "Scrivi la domanda o metti uno screenshot!"
+    value = "Scrivi la domanda o posta uno screenshot!"
