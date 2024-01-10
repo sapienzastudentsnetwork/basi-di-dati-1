@@ -12,3 +12,6 @@ body:
       - altro
   validations:
     required: true
+- type: markdown
+  attributes:
+    value = "Scrivi la domanda o metti uno screenshot!"
