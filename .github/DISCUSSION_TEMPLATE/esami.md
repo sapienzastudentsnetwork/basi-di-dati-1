@@ -1,3 +1,4 @@
+---
 title: "[Esame 0 Mese 0000] Esercizio 0"
 labels: ["da risolvere"]
 body: 
@@ -15,12 +16,4 @@ body:
 - type: markdown
   attributes:
     value: "## Esercizio"
-- type: textarea
-  id: esercizio
-  attributes:
-    label: Testo dell'esercizio
-    description: "Scrivi il testo dell'esercizio o posta uno screenshot!"
-    placeholder: "Esercizio..."
-    render: markdown
-  validations:
-    required: true
+---
