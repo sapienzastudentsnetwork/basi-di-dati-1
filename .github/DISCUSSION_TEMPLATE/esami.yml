@@ -14,4 +14,13 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: "Scrivi la domanda o posta uno screenshot!"
+    value: "## Scrivi il testo dell'esercizio o posta uno screenshot!"
+- type: textarea
+  id: esercizio
+  attributes:
+    label: Testo dell'esercizio
+    description: "Scrivi il testo dell'esercizio o posta uno screenshot!"
+    placeholder: "Esercizio..."
+    render: bash
+  validations:
+    required: true
