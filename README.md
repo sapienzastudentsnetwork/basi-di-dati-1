@@ -1,6 +1,6 @@
 # Basi di Dati - I modulo
 
-Lo scopo di questo repository su GitHub è facilitare la condivisione e la discussione delle soluzioni relative agli esercizi, inclusi alcuni tratti da prove di esame passate, del corso Basi di Dati I tenuto dalla professoressa Maria De Marsico e dal professor Giuseppe Perelli. Qui puoi trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+Lo scopo di questo repository su GitHub è facilitare la condivisione e la discussione delle soluzioni relative agli esercizi, inclusi alcuni tratti da prove di esame passate, dell'insegnamento di Basi di Dati I del Corso di Laurea Triennale in Informatica (attualmente tenuto dalla professoressa Maria De Marsico e dal professor Giuseppe Perelli). Qui puoi trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
 ## Argomenti
 
