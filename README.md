@@ -1,8 +1,10 @@
 # Basi di Dati - I modulo
 
-Lo scopo di questo repository su GitHub è facilitare la condivisione e la discussione delle soluzioni relative agli esercizi, inclusi alcuni tratti da prove di esame passate, dell'insegnamento di Basi di Dati I del Corso di Laurea Triennale in Informatica (attualmente tenuto dalla professoressa Maria De Marsico per i canali M-Z e Teledidattica e dal professor Giuseppe Perelli per il canale A-L). Qui puoi trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di Basi di Dati 1 assegnati, a lezione e nei testi d'esame, dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
 
-## Argomenti
+💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+
+## 📝 Argomenti
 
 1. [algebra relazionale](../../discussions?discussions_q=is%3Aopen+label%3A"algebra+relazionale")
    - [3NF](../../discussions?discussions_q=is%3Aopen+label%3A3NF)
@@ -23,7 +25,7 @@ Lo scopo di questo repository su GitHub è facilitare la condivisione e la discu
 
 Tutti gli esercizi, ordinati in base agli aggiornamenti più recenti [[QUI]](../../discussions?discussions_q=is%3Aopen+)
 
-## Categorie
+## 🗃 Categorie
 
 - [Esami](../../discussions/categories/esami?discussions_q=is%3Aopen+category%3AEsami)
 
@@ -35,23 +37,23 @@ Tutti gli esercizi, ordinati in base agli aggiornamenti più recenti [[QUI]](../
   
   - Per traccia
 
-    - [18 gennaio 2022 A](../../discussions/categories/esami?discussions_q=is%3Aopen+category%3AEsami+label%3A"2022-01-18+A")
-    - [18 gennaio 2022 B](../../discussions?discussions_q=is%3Aopen+label%3A"2022-01-18+B")
-    - [22 marzo 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-03-22+)
-    - [15 giugno 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-06-15+)
-    - [5 luglio 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-07-05+)
-    - [15 settembre 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-09-15+)
-    - [24 ottobre 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-10-24+)
-    - [23 gennaio 2023 A](../../discussions?discussions_q=is%3Aopen+label%3A"2023-01-23+A"+)
-    - [23 gennaio 2023 B](../../discussions?discussions_q=is%3Aopen+label%3A"2023-01-23+B"+)
-    - [14 febbraio 2023 A](../../discussions?discussions_q=is%3Aopen+label%3A"2023-02-14+A"+)
-    - [14 febbraio 2023 B](../../discussions?discussions_q=is%3Aopen+label%3A"2023-02-14+B"+)
-    - [23 marzo 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-03-23+)
-    - [5 giugno 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-06-05+)
-    - [10 luglio 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-07-10+)
-    - [4 settembre 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-09-04+)
-    - [16 ottobre 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-10-16+)
     - [17 gennaio 2024 A](../../discussions?discussions_q=is%3Aopen+label%3A"2024-01-17+B"+)
+    - [16 ottobre 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-10-16+)
+    - [4 settembre 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-09-04+)
+    - [10 luglio 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-07-10+)
+    - [5 giugno 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-06-05+)
+    - [23 marzo 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-03-23+)
+    - [14 febbraio 2023 B](../../discussions?discussions_q=is%3Aopen+label%3A"2023-02-14+B"+)
+    - [14 febbraio 2023 A](../../discussions?discussions_q=is%3Aopen+label%3A"2023-02-14+A"+)
+    - [23 gennaio 2023 B](../../discussions?discussions_q=is%3Aopen+label%3A"2023-01-23+B"+)
+    - [23 gennaio 2023 A](../../discussions?discussions_q=is%3Aopen+label%3A"2023-01-23+A"+)
+    - [24 ottobre 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-10-24+)
+    - [15 settembre 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-09-15+)
+    - [5 luglio 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-07-05+)
+    - [15 giugno 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-06-15+)
+    - [22 marzo 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-03-22+)
+    - [18 gennaio 2022 B](../../discussions?discussions_q=is%3Aopen+label%3A"2022-01-18+B")
+    - [18 gennaio 2022 A](../../discussions/categories/esami?discussions_q=is%3Aopen+category%3AEsami+label%3A"2022-01-18+A")
 
 - [Esercizi](../../discussions/categories/esercizi?discussions_q=is%3Aopen+category%3AEsercizi)
 
