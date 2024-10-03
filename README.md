@@ -54,6 +54,7 @@ Tutti gli esercizi, ordinati in base agli aggiornamenti più recenti [[QUI]](../
     - [22 marzo 2022](../../discussions?discussions_q=is%3Aopen+label%3A2022-03-22+)
     - [18 gennaio 2022 B](../../discussions?discussions_q=is%3Aopen+label%3A"2022-01-18+B")
     - [18 gennaio 2022 A](../../discussions/categories/esami?discussions_q=is%3Aopen+category%3AEsami+label%3A"2022-01-18+A")
+    - [7 novembre 2018](../../discussions/categories/esami?discussions_q=is%3Aopen+category%3AEsami+label%3A"2018-11-07")
 
 - [Esercizi](../../discussions/categories/esercizi?discussions_q=is%3Aopen+category%3AEsercizi)
 
