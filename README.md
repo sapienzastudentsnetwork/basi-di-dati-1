@@ -4,6 +4,19 @@
 
 💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
+## 👷‍♀️ Gestori
+
+In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+
+Attualmente, questo forum è gestito dai seguenti colleghi:
+- Aglaia **Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
+- Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
+- Matteo **R.** ([@rimaout](https://github.com/rimaout))
+
+Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Ionut Cicio](https://github.com/CuriousCI), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
+
+Grazie mille in anticipo per il tuo contributo 🙌
+
 ## 📝 Argomenti
 
 1. [algebra relazionale](../../discussions?discussions_q=is%3Aopen+label%3A"algebra+relazionale")
