@@ -6,7 +6,7 @@
 
 ## 👷‍♀️ Gestori
 
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
+In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions/new?category=esami) o [aggiungendo esercizi per casa](https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions/new?category=esercizi), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum è gestito dai seguenti colleghi:
 - Aglaia **Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
