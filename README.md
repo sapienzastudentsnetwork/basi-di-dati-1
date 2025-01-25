@@ -54,6 +54,8 @@ Tutti gli esercizi, ordinati in base agli aggiornamenti più recenti [[QUI]](../
   
   - Per traccia
 
+    - [16 gennaio 2025 A](../../discussions?discussions_q=is%3Aopen+label%3A"2025-01-16+A"+)
+    - [16 gennaio 2025 B](../../discussions?discussions_q=is%3Aopen+label%3A"2025-01-16+B"+)
     - [12 febbraio 2024](../../discussions?discussions_q=is%3Aopen+label%3A"2024-02-12"+)
     - [17 gennaio 2024 A](../../discussions?discussions_q=is%3Aopen+label%3A"2024-01-17+B"+)
     - [16 ottobre 2023](../../discussions?discussions_q=is%3Aopen+label%3A2023-10-16+)
