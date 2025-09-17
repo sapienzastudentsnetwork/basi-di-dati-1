@@ -99,8 +99,8 @@
              <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+3+giugno+label%3A%222025-06-03+A%22"> A </a> - <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+3+giugno+label%3A%222025-06-03+B%22"> B </a>
           </td>
         </tr>
-        <tr> <td align="center"> --- </td> </tr>
-        <tr> <td align="center"> --- </td> </tr>
+        <tr> <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2025-07-02"> 2 Luglio </a> </td> </tr>
+        <tr> <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2025-09-11"> 11 Settembre </a> </td> </tr>
         <tr> <td align="center"> --- </td> </tr>
         <tr> <td align="center"> --- </td> </tr>
       </table>
