@@ -101,7 +101,7 @@
         </tr>
         <tr> <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2025-07-02"> 2 Luglio </a> </td> </tr>
         <tr> <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2025-09-11"> 11 Settembre </a> </td> </tr>
-        <tr> <td align="center"> --- </td> </tr>
+        <tr> <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=label%3A2025-11-03"> 3 Novembre </a> </td> </tr>
         <tr> <td align="center"> --- </td> </tr>
       </table>
     </td>
