@@ -202,7 +202,10 @@
           <td align="center"> 2026 </td>
         </tr>
         <tr>
-          <td align="center"> 15 Gennaio </td>
+          <td align="center"> 
+            <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2026-01-07"> 7 </a> -
+            <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2026-01-08"> 8 </a> -
+            15 Gennaio </td>
         </tr>
         <tr>
           <td align="center"> 5 Febbraio </td>
@@ -234,6 +237,8 @@
 
 1. [algebra relazionale](../../discussions?discussions_q=is%3Aopen+label%3A"algebra+relazionale") [[esami](../../discussions?discussions_q=is%3Aopen+category%3AEsami+label%3A"algebra+relazionale")] [[esercizi](../../discussions?discussions_q=is%3Aopen+category%3AEsercizi+label%3A"algebra+relazionale")] [[esercizi complessi](../../discussions?discussions_q=is%3Aopen+label%3A"algebra+relazionale"+label%3Ahard+)]
 
+2. [teoria relazionale](../../discussions?discussions_q=is%3Aopen+label%3A"teoria+relazionale") [[esami](../../discussions?discussions_q=is%3Aopen+category%3AEsami+label%3A"teoria+relazionale")] [[esercizi](../../discussions?discussions_q=is%3Aopen+category%3AEsercizi+label%3A"teoria+relazionale")] [[esercizi complessi](../../discussions?discussions_q=is%3Aopen+label%3A"teoria+relazionale"+label%3Ahard+)]
+
    - [3NF](../../discussions?discussions_q=is%3Aopen+label%3A3NF)
 
    - [chiavi](../../discussions?discussions_q=is%3Aopen+label%3Achiavi)
@@ -243,8 +248,6 @@
    - [loseless join](../../discussions?discussions_q=is%3Aopen+label%3A%22loseless+join%22)
 
    - [preserva f](../../discussions?discussions_q=is%3Aopen+label%3A%22preserva+f%22)
-
-2. [teoria relazionale](../../discussions?discussions_q=is%3Aopen+label%3A"teoria+relazionale") [[esami](../../discussions?discussions_q=is%3Aopen+category%3AEsami+label%3A"teoria+relazionale")] [[esercizi](../../discussions?discussions_q=is%3Aopen+category%3AEsercizi+label%3A"teoria+relazionale")] [[esercizi complessi](../../discussions?discussions_q=is%3Aopen+label%3A"teoria+relazionale"+label%3Ahard+)]
 
 3. [organizzazione fisica](../../discussions?discussions_q=is%3Aopen+label%3A"organizzazione+fisica") [[esami](../../discussions?discussions_q=is%3Aopen+category%3AEsami+label%3A"organizzazione+fisica")] [[esercizi](../../discussions?discussions_q=is%3Aopen+category%3AEsercizi+label%3A"organizzazione+fisica")] [[esercizi complessi](../../discussions?discussions_q=is%3Aopen+label%3A"organizzazione+fisica"+label%3Ahard+)]
 
