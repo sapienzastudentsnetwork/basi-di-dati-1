@@ -107,7 +107,7 @@
       </table>
     </td>
     <td>
-      <table>
+      <table align="center">
         <tr>
           <td align="center">2024</td>
         </tr>
@@ -205,7 +205,7 @@
           <td align="center"> 
             <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2026-01-07"> 7 </a> -
             <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A2026-01-08"> 8 </a> -
-            15 Gennaio </td>
+            (15 <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A%222026-01-15+A%22"> A </a> - <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A%222026-01-15+B%22"> B</a>) Gennaio </td>
         </tr>
         <tr>
           <td align="center"> 5 Febbraio </td>
@@ -256,17 +256,3 @@
    - [hash](../../discussions?discussions_q=is%3Aopen+label%3Ahash)
 
    - [ISAM](../../discussions?discussions_q=is%3Aopen+label%3AISAM)
-
-## 👷‍♀️ Gestori
-
-In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions/new?category=esami) o [aggiungendo esercizi per casa](https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions/new?category=esercizi), e se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
-
-Attualmente, questo forum è gestito dai seguenti colleghi:
-
-- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
-- Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
-- Matteo **R.** ([@rimaout](https://github.com/rimaout))
-
-Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Ionut Cicio](https://github.com/CuriousCI), che ringraziamo, a nome dell'intera comunità, per l'ottimo lavoro svolto 💪
-
-Grazie mille in anticipo per il tuo contributo 🙌
