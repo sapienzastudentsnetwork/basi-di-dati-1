@@ -2,7 +2,6 @@ In questi forum chiunque può contribuire aggiungendo non solo proposte di soluz
 
 Attualmente, questo forum è gestito dai seguenti colleghi:
 
-- Valerio **Fontana** ([@FeddyLix17](https://github.com/FeddyLix17)) [[Telegram](https://telegram.me/FeddyLix17)]
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
 - Matteo **R.** ([@rimaout](https://github.com/rimaout))
 
