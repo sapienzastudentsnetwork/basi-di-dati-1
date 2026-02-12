@@ -208,7 +208,8 @@
             (15 <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A%222026-01-15+A%22"> A </a> - <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A%222026-01-15+B%22"> B</a>) Gennaio </td>
         </tr>
         <tr>
-          <td align="center"> 5 Febbraio </td>
+          <td align="center"> 5 Febbraio <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A%222026-02-05+A%22"> A </a> - <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-1/discussions?discussions_q=is%3Aopen+label%3A%222026-02-05+B%22"> B </a>
+          </td>
         </tr>
         <tr>
           <td align="center"> --- </td>
